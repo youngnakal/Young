@@ -15,4 +15,8 @@
     "@typescript-eslint/no-unused-vars": ["error"]
     
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2c3d171056ed6daf02665675bb9617e1b0392e41
